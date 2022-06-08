@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720722070845",
+    "project_id": "registerinfoapp-f3763",
+    "storage_bucket": "registerinfoapp-f3763.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720722070845:android:3529e58d4794eb34898954",
+        "android_client_info": {
+          "package_name": "com.example.registerinfoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720722070845-74m4upcb9lisjtb12fcbouh1epi0vt06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3PQtzznaTgXpcn6f4Fkqdsm199DNJLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720722070845-74m4upcb9lisjtb12fcbouh1epi0vt06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
